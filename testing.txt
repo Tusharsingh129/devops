@@ -7,5 +7,4 @@ new changes
 new changes 1
 =======
 hello this is new change
->>>>>>> 7239712 (testing.txt file)
-
+>>>>>>> 7239712 (testing.txt file

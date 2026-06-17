@@ -5,10 +5,5 @@ def hello():
 
     return "Hello MyOperator"
 
+
 hello()
-
-
-
-
-
-

@@ -1,8 +1,8 @@
-def my_function():
+def hello():
+    """
+    this is demo
+    """
 
-    password: test@123
-    a = 5
-    return a + password
+    return "Hello MyOperator"
 
-
-my_function()
+hello()

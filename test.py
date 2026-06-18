@@ -7,8 +7,8 @@ def hello():
     """
     this is demo
     """
-
-    return "Hello MyOperator"
+    a=5
+    return a
 
 
 hello()
